@@ -1,0 +1,63 @@
+body
+{
+    background-image:url("https://images.bfmtv.com/Y6Q_5dyWdgY6spJ_lBrhEBcuSy8=/0x0:2048x1152/images/Medaille-d-or-pour-l-equipe-de-France-de-volley-1080843.jpg");
+    background-attachment:fixed;
+    font-family: arial;
+}
+
+.titre
+{
+    font-size: 150%;
+    background-color: blueviolet; 
+    width:100%;
+}
+
+.relou
+{
+    width:50%;
+}
+
+
+.lnv
+{
+    width:200px;
+    float:right;
+    text-align:right;
+    margin-top: -87px;
+}
+.menu
+{
+    float: left;
+    background-color:blueviolet;
+    width: 10%;
+    color:aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+a:link {
+    color:crimson;
+}
+
+a:visited{
+    color: crimson;
+}
+
+.intro
+{
+    font-size: 120%;
+}
+.texte
+{
+    float: right;
+    background-color:rgba(255,255,255,0.5);
+    width: 89%;
+    color:white;
+
+}
+
+.règles
+{
+    margin-left: 3%;
+}
