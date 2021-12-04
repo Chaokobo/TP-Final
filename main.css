@@ -1,6 +1,7 @@
 body
 {
-    background-image:url("https://images.bfmtv.com/Y6Q_5dyWdgY6spJ_lBrhEBcuSy8=/0x0:2048x1152/images/Medaille-d-or-pour-l-equipe-de-France-de-volley-1080843.jpg");
+    background-image:url("https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/x5w4ggXP3mJMO04lFUadqJDA.jpg");
+    background-size: 100%;
     background-attachment:fixed;
     font-family: arial;
 }
@@ -12,18 +13,26 @@ body
     width:100%;
 }
 
-.relou
-{
-    width:50%;
-}
 
 
-.lnv
+.logos
 {
     width:200px;
     float:right;
     text-align:right;
     margin-top: -87px;
+}
+
+.lnv
+{
+    float: right;
+    margin-right: 3px;
+}
+
+.ffvb
+{
+    text-align: right;
+    float: right;
 }
 .menu
 {
@@ -51,13 +60,23 @@ a:visited{
 .texte
 {
     float: right;
-    background-color:rgba(255,255,255,0.5);
+    background-color:rgba(39, 8, 8, 0.5);
     width: 89%;
     color:white;
 
 }
 
-.règles
+.liste
 {
     margin-left: 3%;
+}
+
+.paragraphe
+{
+    margin-top: 5%;
+}
+
+.sous-para
+{
+    margin-top: 3%;
 }
