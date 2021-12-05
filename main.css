@@ -8,11 +8,12 @@ body
 
 .titre
 {
-    font-size: 150%;
-    background-color: blueviolet; 
+    font-size: 175%;
+    color:slategray;
+    text-decoration: underline;
     width:100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 
 
 .logos
@@ -20,7 +21,7 @@ body
     width:200px;
     float:right;
     text-align:right;
-    margin-top: -87px;
+    margin-top: -135px;
 }
 
 .lnv
@@ -37,9 +38,11 @@ body
 .menu
 {
     float: left;
-    background-color:blueviolet;
+    background-color:rgba(39, 8, 8, 0.5);
     width: 10%;
     color:aliceblue;
+    background: linear-gradient(#f6b73c, #4d9f0c) 30;
+    margin-top:-12px;
 }
 
 a{
@@ -56,6 +59,7 @@ a:visited{
 .intro
 {
     font-size: 120%;
+    margin-top: 1%;
 }
 .texte
 {
@@ -63,6 +67,7 @@ a:visited{
     background-color:rgba(39, 8, 8, 0.5);
     width: 89%;
     color:white;
+    margin-top: -12px;
 
 }
 
@@ -73,7 +78,7 @@ a:visited{
 
 .paragraphe
 {
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
 .sous-para
