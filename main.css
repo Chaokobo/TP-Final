@@ -1,6 +1,6 @@
 body
 {
-    background-image:url("https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/x5w4ggXP3mJMO04lFUadqJDA.jpg");
+    background-image:url("image_fond_volley.jpg");
     background-size: 100%;
     background-attachment:fixed;
     font-family: arial;
@@ -35,6 +35,7 @@ body
     text-align: right;
     float: right;
 }
+
 .menu
 {
     float: left;
@@ -45,14 +46,18 @@ body
     margin-top:-12px;
 }
 
-a{
-    text-decoration: none;
+a
+{
+    text-decoration: underline;
 }
-a:link {
+
+a:link
+{
     color:crimson;
 }
 
-a:visited{
+a:visited
+{
     color: crimson;
 }
 
@@ -61,6 +66,7 @@ a:visited{
     font-size: 120%;
     margin-top: 1%;
 }
+
 .texte
 {
     float: right;
@@ -68,7 +74,6 @@ a:visited{
     width: 89%;
     color:white;
     margin-top: -12px;
-
 }
 
 .liste
@@ -84,4 +89,20 @@ a:visited{
 .sous-para
 {
     margin-top: 3%;
+}
+
+.image
+{
+    float:right;
+    text-align: center;
+}
+
+figure
+{
+    width:20%;
+}
+
+video
+{
+    width:300px;
 }
