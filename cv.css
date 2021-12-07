@@ -1,0 +1,94 @@
+body
+{
+    background-image:url("https://image.api.playstation.com/vulcan/ap/rnd/202009/1815/x5w4ggXP3mJMO04lFUadqJDA.jpg");
+    background-size: 100%;
+    background-attachment:fixed;
+    font-family: arial;
+
+}
+
+.titre
+{
+    font-size: 175%;
+    color:slategray;
+    text-decoration: underline;
+    width:100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.logos
+{
+    width:200px;
+    float:right;
+    text-align:right;
+    margin-top: -135px;
+}
+
+.lnv
+{
+    float: right;
+    margin-right: 3px;
+}
+
+.ffvb
+{
+    text-align: right;
+    float: right;
+}
+.menu
+{
+    float: left;
+    background-color:rgba(39, 8, 8, 0.5);
+    width: 10%;
+    color:aliceblue;
+    background: linear-gradient(#f6b73c, #4d9f0c) 30;
+    margin-top:-12px;
+}
+
+a{
+    text-decoration: none;
+}
+a:link {
+    color:crimson;
+}
+
+a:visited{
+    color: crimson;
+}
+
+.texte
+{
+    float: right;
+    background-color:rgba(39, 8, 8, 0.5);
+    width: 89%;
+    color:white;
+    margin-top: -12px;
+}
+
+table
+{
+    border: 1px solid #333;
+}
+
+
+.licence
+{
+    text-align: left;
+
+}
+.identite
+{
+    text-align: right;
+}
+
+
+.etudes
+{
+    border: 1px solid #333;    
+}
+
+.none
+{
+    border: none;
+}
